@@ -1,9 +1,5 @@
 # Language Arts
 
-
-https://en.wikipedia.org/wiki/Sentence_diagram
-
-
 [basically this](https://english.edward.io/)
 
 maybe I will add a sentence diagram feature as well
